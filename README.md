@@ -1,0 +1,2 @@
+# js-journey
+Leaning JavaScript
